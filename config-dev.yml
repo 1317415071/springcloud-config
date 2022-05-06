@@ -1,2 +1,2 @@
-
-hello
+config:
+  info: master-config-dev-version1.0
